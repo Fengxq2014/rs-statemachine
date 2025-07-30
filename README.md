@@ -1,6 +1,14 @@
 # rs-statemachine with Feature Flags
 
+
+[![Crates.io][crates-badge]][crates-url]
+
+[crates-badge]: https://img.shields.io/crates/v/rs-statemachine.svg
+[crates-url]: https://crates.io/crates/rs-statemachine
+
 A flexible and extensible state machine implementation for Rust with optional advanced features that can be enabled through Cargo feature flags.
+
+This project was inspired by the [cola](https://github.com/alibaba/COLA/tree/master/cola-components/cola-component-statemachine) project.
 
 ## Features
 
