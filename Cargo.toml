@@ -2,7 +2,7 @@
 name = "rs-statemachine"
 version = "0.1.0"
 edition = "2021"
-authors = ["Defned <8519834+Fengxq2014@users.noreply.github.com>"]
+authors = ["Defned <uqtxb9sqo@mozmail.com>"]
 description = "A Rust implementation of COLA-style state machine with fluent API"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/Fengxq2014/rs-statemachine"
