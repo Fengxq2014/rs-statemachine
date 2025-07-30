@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Defned <8519834+Fengxq2014@users.noreply.github.com>"]
 description = "A Rust implementation of COLA-style state machine with fluent API"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/yourusername/cola-state-machine"
+repository = "https://github.com/Fengxq2014/rs-statemachine"
 keywords = ["state-machine", "fsm", "workflow", "dsl"]
 categories = ["data-structures", "algorithms"]
 
